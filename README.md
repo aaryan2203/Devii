@@ -190,3 +190,8 @@ If a token has been exposed, regenerate it immediately from the Discord Develope
 ## License
 
 This project is open-source and can be modified for personal or educational use.
+
+
+## Add Devi to your server
+
+https://discord.com/oauth2/authorize?client_id=1513918178781040872&permissions=8&integration_type=0&scope=bot
